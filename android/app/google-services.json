@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490228554817",
+    "project_id": "hostelhappy-5d683",
+    "storage_bucket": "hostelhappy-5d683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490228554817:android:216a5856a04c7f8b32bac0",
+        "android_client_info": {
+          "package_name": "com.example.hostelmanagementproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXW3NxoOixNRGpm5xOGmj4Q2ZwmkY31FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
